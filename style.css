@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#div1, #div2, #div3{
+    width: 600px;
+    border: 1px solid blue;
+}
+#div1 img, #div2 img, #div3 img{
+    width: 100%;
+    height: auto;
+}
